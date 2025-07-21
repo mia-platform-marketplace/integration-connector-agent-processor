@@ -1,19 +1,6 @@
-# Integration Connector Agent Custom Processor Template <!-- omit from toc -->
+# Integration Connector Agent Custom Processor Template
 
 This repository contains a custom processor template for the Integration Connector Agent. It is designed to be used as a starting point for creating custom processors that can handle specific integration tasks.
-
-## Table of Contents <!-- omit from toc -->
-
-- [About Integration Connector Agent](#about-integration-connector-agent)
-- [Getting Started](#getting-started)
-- [Writing Your Custom Processor](#writing-your-custom-processor)
-  - [Core Interface](#core-interface)
-  - [Implementation Steps](#implementation-steps)
-- [Important Configuration Points](#important-configuration-points)
-  - [Module Path in Dockerfile](#module-path-in-dockerfile)
-  - [Temporary Directory Access](#temporary-directory-access)
-  - [Logging](#logging)
-- [Deployment](#deployment)
 
 ## About Integration Connector Agent
 
