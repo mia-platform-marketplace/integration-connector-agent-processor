@@ -2,10 +2,12 @@ name: Go
 
 on:
   push:
-    branches: [ master ]
-    tags: '*'
+    branches: [ main ]
+    tags: 
+      - '*'
   pull_request:
-    branches: [ master ]
+    branches:
+      - '*'
 
 jobs:
   test:
