@@ -2,6 +2,7 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
+mia_template_service_name_placeholder
 *.exe
 *.exe~
 *.dll
