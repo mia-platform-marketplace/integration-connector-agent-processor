@@ -2,9 +2,8 @@
 
 This repository contains a custom processor template for the Integration Connector Agent. It is designed to be used as a starting point for creating custom processors that can handle specific integration tasks.
 
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
-- [Table of Contents](#table-of-contents)
 - [About Integration Connector Agent](#about-integration-connector-agent)
 - [Getting Started](#getting-started)
 - [Writing Your Custom Processor](#writing-your-custom-processor)
