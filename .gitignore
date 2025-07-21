@@ -3,6 +3,7 @@
 #
 # Binaries for programs and plugins
 mia_template_service_name_placeholder
+processor
 *.exe
 *.exe~
 *.dll
