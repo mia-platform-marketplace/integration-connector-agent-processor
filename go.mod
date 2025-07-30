@@ -2,11 +2,12 @@ module mia_template_service_name_placeholder
 
 go 1.24.5
 
-require github.com/mia-platform/integration-connector-agent v0.4.0
+require github.com/mia-platform/integration-connector-agent v0.5.3
 
 require (
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/hashicorp/go-hclog v1.6.3 // indirect
 	github.com/hashicorp/go-plugin v1.6.3 // indirect
 	github.com/hashicorp/yamux v0.1.1 // indirect
